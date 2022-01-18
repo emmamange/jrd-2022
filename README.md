@@ -10,3 +10,4 @@ git clone https://github.com/emmamange/jrd-2022
 cd jrd-2022
 php -S localhost:8000
 ```
+Then go to http://localhost:8000 ! 
