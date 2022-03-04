@@ -107,7 +107,7 @@ par les débats actuels autour de la préservation de l'environnement, nous avon
 <p>Ces ateliers seront par exemples plusieurs affiches traitant de nombreux sujets, comme les effets de l'informatique sur le climat ou comment descendre notre empreintes carbone.
 Un mini jeu sur le thème de l'écologie et du développement durable sera aussi disponible.
 Ces différents ateliers seront encadrés par les membres du CMI Informatique qui ont contribués à leur création.</p>
-<p>Une fresque du climat réalisée par certains membres du CMI avec l'aide de schtroumph sera aussi exposée.</p>
+<p>Une fresque du climat réalisée par certains membres du CMI avec l'aide du conférencier Louis-Claude Canon sera aussi exposée.</p>
 
 <h2 class="h2" id="Où">Où nous retrouver?</h2>
 <figure class="map">
