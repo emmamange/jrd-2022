@@ -92,12 +92,10 @@ par les débats actuels autour de la préservation de l'environnement, nous avon
 <div class="container text-center">
     <div style="max-width: 65em;margin:auto;" class="row justify-content-center">
         <div class="col-6">
-            <p>Notre premiere conférence portera sur "l'utilsiation de l'informatique pour lutter contre les problemes environnementaux "animé par M. Jacques Combaz</p>
-            <p>test</p>
+            <p>La journée commencera à 14h par la conférence de Mr Jacques Combaz sur l'informatique face au réchauffement climatique, et en quoi l'idée d'utiliser le numérique au service de la transition écologique manque de fondement.</p>
         </div>
         <div class="col-6">
-            <p>Notre deuxieme conférence quand a elle portera sur "l'informatique sur l'environnement" animé par Louis-Claude Canon.</p>
-            <p>test</p>
+            <p>Notre deuxième conférence, animée par Louis-Claude Canon, se portera sur l'impact de l'informatique et du numérique sur notre environnement et sur la nature. Celle-ci aura lieu à 16h dans nos locaux.</p>
         </div>
     </div>
 </div>
