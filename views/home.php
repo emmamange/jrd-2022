@@ -72,8 +72,7 @@
 <h3 class="h2" id="Àpropos">Qui sommes nous?</h3>
 <p>Le CMI Informatique (Cursus Master en Ingénierie) est une formation associée au tronc commun de la licence informatique. Il y ajoute différentes matières, permettant de rapprocher les études universitaires du milieu professionnel. </p>
 
-<p>Nous sommes un groupe d'étudiant de la faculté des sciences et des techniques de Besançon suivant cette formation.
-Nous sommes la classe de deuxième année de licence informatique en formation CMI, et nous avons pour mission d'organiser une Journée Recherche et Développement.</p>
+<p>Nous sommes un groupe d'étudiant de la faculté des sciences et des techniques de Besançon, plus précisément nous représentons la classe de deuxième année de licence informatique en formation CMI, et nous avons pour mission d'organiser une Journée Recherche et Développement.</p>
 
 <h2 id="LaQuoi?" class="h2">La journée R&D?</h2>
 <p>Dans le cadre de nos études, nous avons l'opportunité d'organiser une Journée Recherche et Développement. Cet événement durant lequel nous organisons des activités et des conférences, porte cette année sur l'informatique durable, un thème qui nous tient à cœur. </p>
