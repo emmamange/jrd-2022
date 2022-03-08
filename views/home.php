@@ -87,14 +87,21 @@ semble donc nécessaire d'agir en tant qu'utilisateurs dans le but de réduire c
 par les débats actuels autour de la préservation de l'environnement, nous avons choisi pour thème de cette journée R&D l'informatique durable. Le but premier de cette journée 
 étant de sensibiliser les gens à la cause environnementale.</p>
 
+<h2 class="h2">Les Activités</h2>
+
 <h3 id="Conferences" class="h3">Les conférences</h3>
+<p>Nous sommes heureux d'accueillir pour cette journée Jacques Combaz, ingénieur de recherche CNRS au laboratoire VERIMAG. Il travaille actuelement sur la conception et la vérification de systèmes embarqués en temps réel à l’aide de méthodes formelles. En 2018, il a rejoint EcoInfo, un groupe du CNRS sur les impacts environnementaux et sociétaux des TIC (Techniques de l'Information et de la Communication).</p>
+<p>Aussi, nous nous sommes orientés vers Mr Louis-Claude Canon car il est sensibilisé à la cause climatique à travers ses sujets de recherche. Il a donc accepté d'encadrer la fresque du climat à plusieurs membres du CMI Informatique et une conférence pour la journée R&D. De plus, il est chercheur au sein du DISC de Besançon, ce qui limite les émissions de CO2 quant au transport.</p>
+<h3 class="h3">Programmation</h4>
 <div class="container text-center">
     <div style="max-width: 65em;margin:auto;" class="row justify-content-center">
         <div class="col-6">
-            <p>La journée commencera à 14h par la conférence de Mr Jacques Combaz sur l'informatique face au réchauffement climatique, et en quoi l'idée d'utiliser le numérique au service de la transition écologique manque de fondement.</p>
+            <p><em>14h - 15h : Jacques Combaz</em></p>
+            <p>L'informatique face au réchauffement climatique ; en quoi l'idée d'utiliser le numérique au service de la transition écologique manque de fondement.</p>
         </div>
         <div class="col-6">
-            <p>Notre deuxième conférence, animée par Louis-Claude Canon, se portera sur l'impact de l'informatique et du numérique sur notre environnement et sur la nature. Celle-ci aura lieu à 16h dans nos locaux.</p>
+        <p><em>16h - 17h : Louis-Claude Canon</em></p>
+            <p>L'impact de l'informatique et du numérique sur notre environnement et sur la nature.</p>
         </div>
     </div>
 </div>
