@@ -95,11 +95,11 @@ par les débats actuels autour de la préservation de l'environnement, nous avon
 <h3 class="h3">Programmation</h4>
 <div class="container text-center">
     <div style="max-width: 65em;margin:auto;" class="row justify-content-center">
-        <div class="col-6">
+        <div class="col-sm-6 col-12">
             <p><em>14h - 15h : Jacques Combaz</em></p>
             <p>L'informatique face au réchauffement climatique ; en quoi l'idée d'utiliser le numérique au service de la transition écologique manque de fondement.</p>
         </div>
-        <div class="col-6">
+        <div class="col-sm-6 col-12">
         <p><em>16h - 17h : Louis-Claude Canon</em></p>
             <p>L'impact de l'informatique et du numérique sur notre environnement et sur la nature.</p>
         </div>
@@ -134,7 +134,7 @@ Ces différents ateliers seront encadrés par les membres du CMI Informatique qu
                 <div class="container">
                     <footer>
                         <div class="d-flex row justify-content-between py-4 border-top">
-                            <div class="col-xs-12 col-9 " style="margin-bottom:60px">
+                            <div class="col-md-9 col-sm-6 col-12" style="margin-bottom:60px">
                                 <p>&copy; 2022 - CMI Informatique Besançon</p>
                                 <div style="text-align:center;">
                                     <figure class="figure" >
@@ -145,6 +145,15 @@ Ces différents ateliers seront encadrés par les membres du CMI Informatique qu
                                     </figure>
                                     <figure class="figure" >
                                         <img  src="img/Logo-ufc-blanc.png" class="figure-img img-fluid" width="200" alt="Logo Université de Franche-Comté">
+                                    </figure>
+                                    <figure class="figure" >
+                                        <img  src="img/femto-st-logo.png" class="figure-img img-fluid" width="200" alt="Logo Femto-st">
+                                    </figure>
+                                    <figure class="figure" >
+                                        <img  src="img/OFNI-logo.png" class="figure-img img-fluid" width="200" alt="Logo OFNI">
+                                    </figure>
+                                    <figure class="figure" >
+                                        <img  src="img/S2E-logo.png" class="figure-img img-fluid" width="200" alt="Logo S2E">
                                     </figure>
                                 </div>
                                 
