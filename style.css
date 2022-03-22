@@ -11,12 +11,16 @@ p {
 
 
 .bg-black {
-	background-color: #000;
+	background-color: rgb(48, 61, 48);
+}
+
+.dropdown-menu-dark {
+	background-color: rgb(48, 61, 48);
 }
 
 .body-bg {
 	background-color: #F7F4E6;
-	color:  #F7F4E6;
+	color: #000;
 }
 
 .figure {
@@ -30,7 +34,7 @@ p {
 }
 
 .h1 {
-	color: green;
+	color: #466d2d;
 }
 
 .h2 {
@@ -38,7 +42,7 @@ p {
 	margin-top: 0em;
 	margin-bottom: 1em;
 	margin-left: 1em;
-    color: green;
+    color: #466d2d;
 }
 
 .h3 {
@@ -46,20 +50,24 @@ p {
 	margin: 2em;
 	margin-top: 0em;
 	padding-top: 2em;
-    color: green;
+    color: #466d2d;
 }
 
 .h4 {
 	margin-left: 2em;
-    color: green;
+    color: #466d2d;
+}
+
+.h5 {
+	color: #466d2d;
 }
 
 a {
-	color: green;
+	color: #466d2d;
 	text-decoration: none;
 }
 
 p a:hover {
-	color:green;
+	color:#466d2d;
 	text-decoration: underline;
 }
