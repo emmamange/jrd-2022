@@ -20,39 +20,39 @@
 
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-black">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Journée R&D</a>
+    <a class="navbar-brand" href="index.php#">Journée R&D</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="#Theme">Le thème</a>
+          <a class="nav-link" href="index.php#Theme">Le thème</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Les activités
           </a>
           <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#Conferences">Les conférences</a></li>
+            <li><a class="dropdown-item" href="index.php#Conferences">Les conférences</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#Ateliers">Les ateliers</a></li>
+            <li><a class="dropdown-item" href="index.php#Ateliers">Les ateliers</a></li>
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Où">Où</a>
+          <a class="nav-link" href="index.php#Où">Où</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Quand">Quand</a>
+          <a class="nav-link" href="index.php#Quand">Quand</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Àpropos">À propos de nous</a>
+          <a class="nav-link" href="index.php#Àpropos">À propos de nous</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Infos-Covid">Consignes Covid</a>
+          <a class="nav-link" href="index.php#Infos-Covid">Consignes Covid</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled" href="covid" tabindex="-1" aria-disabled="true">En distanciel</a>
+          <a class="nav-link" href="index.php?action=affiches" tabindex="-1">En distanciel</a>
         </li>
       </ul>
     </div>

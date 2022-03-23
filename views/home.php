@@ -58,5 +58,5 @@ Ces différents ateliers seront encadrés par les membres du CMI Informatique qu
 <p>Le <strong>Mercredi 23 mars 2022</strong> , de <strong>13h30</strong> à <strong>18h</strong>, l'Université de Franche-Comté vous ouvre ses portes!</p>
 
 <h3 class="h2" id="Infos-Covid">Infos-Covid</h3>
-<p>Suivant l'évolution de la situation sanitaire, nous nous sommes préparés à éventuellement devoir passer la journée en distanciel. Bien que nous faisons tout notre possible pour maintenir la journée en présentiel, nous avons préparé une alternative en ligne. <a href=''>Ici</a> se trouverons les liens pour assiter aux conférences depuis chez vous, ainsi que les versions numériques des différents ateliers de la journée. </p>
+<p>Suivant l'évolution de la situation sanitaire, nous nous sommes préparés à éventuellement devoir passer la journée en distanciel. Bien que nous faisons tout notre possible pour maintenir la journée en présentiel, nous avons préparé une alternative en ligne. <a href='index.php?action=affiches'>Ici</a> se trouverons les liens pour assiter aux conférences depuis chez vous, ainsi que les versions numériques des différents ateliers de la journée. </p>
 

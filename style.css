@@ -9,6 +9,12 @@ p {
 	margin-right: auto;
 }
 
+.affiches img {
+	margin: 1em 0;
+	border-color: #fff;
+	border-style: solid;
+	border-width: 0.5em;
+}
 
 .bg-black {
 	background-color: rgb(48, 61, 48);
